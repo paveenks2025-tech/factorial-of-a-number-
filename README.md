@@ -13,6 +13,7 @@ To write and execute an Assembly language program to perform the factorial of a 
 
 ## ALGORITHM
 1. **Start**
+
 2. **Input**: Read the number `n`.
 3. **Initialize**:
    - Set factorial to `1`.
